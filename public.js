@@ -16,7 +16,7 @@ function testEmail(data)
    return reg.test(strEmail);
 }
 //------------------------验证(结束)--------------------------------------
-
+aaaaaaaaaa
 //------------------------------------添加好友申请(开始)------------------------------
 function addFriend(obj,friendid)
 {
